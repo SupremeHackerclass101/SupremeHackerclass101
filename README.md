@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+⚡ Fun fact: The force of gravity in the Hudson Bay region of Canada is less than that on the rest of the planet.
 <!--
 **SupremeHackerclass101/SupremeHackerclass101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
